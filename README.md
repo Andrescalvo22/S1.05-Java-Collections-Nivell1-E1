@@ -1,4 +1,4 @@
-## 📄 Description - Exercise Statement* 
+## 📄 Description - Exercise Statement 
 This exercise consists of creating a Java class that lists the contents of a directory alphabetically. The directory is passed as a parameter via the command line. The program must use relative paths and `File.separator` to ensure compatibility across different operating systems.
 
 ## 💻 Technologies Used
